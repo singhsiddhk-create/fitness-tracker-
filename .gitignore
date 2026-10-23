@@ -3,7 +3,7 @@ bin/
 *.class
 
 # Local fitness records and credentials
- data/fitness_records.txt
+data/fitness_records.txt
 .env
 .env.*
 !.env.example
